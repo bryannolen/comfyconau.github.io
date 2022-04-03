@@ -10,7 +10,7 @@ title: Speakers
     th, td, tr {
         border-collapse: collapse;
         vertical-align:top;
-        border-bottom: 2px dotted #ddd;
+        border-bottom: 2px dotted #008080;
         padding-left: 20px;
         padding-right: 20px;
         padding-bottom: 15px;
@@ -23,7 +23,7 @@ TBA
 
 ## Talks
 <table><tbody>
-
+<th></th>
 <tr> 
   <td><h4><b>Deus Ex Promised Me Cool Augments, and All I Got Was Dystopia: When Do I Get My Robot Legs, and Will They Get Hacked?</b></h4>How do we attach augments? What body systems will they replace and enhance? What are the current technical challenges involved in augmentation? Much of the current news and talk around augmentation feels like elaborate marketing. This talk will aim to give a snapshot of the current state of augmentation technology, exploring some of the emerging types of augments, how they work, and what still needs to be solved before you can get one.</td>
  
