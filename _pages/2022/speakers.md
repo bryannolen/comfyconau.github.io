@@ -7,14 +7,14 @@ title: Speakers
 
 <head>
 <style>
-th, td, tr {
-    border-collapse: collapse;
-    vertical-align:top;
-    border-bottom: 2px dotted #ddd;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 15px;
-}
+    th, td, tr {
+        border-collapse: collapse;
+        vertical-align:top;
+        border-bottom: 2px dotted #ddd;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 15px;
+    }
 </style>
 </head>
 
@@ -23,7 +23,6 @@ TBA
 
 ## Talks
 <table><tbody>
-<th><h3>Topic</h3></th><th><h3>Speaker</h3></th>
 
 <tr> 
   <td><h4><b>Deus Ex Promised Me Cool Augments, and All I Got Was Dystopia: When Do I Get My Robot Legs, and Will They Get Hacked?</b></h4>How do we attach augments? What body systems will they replace and enhance? What are the current technical challenges involved in augmentation? Much of the current news and talk around augmentation feels like elaborate marketing. This talk will aim to give a snapshot of the current state of augmentation technology, exploring some of the emerging types of augments, how they work, and what still needs to be solved before you can get one.</td>
@@ -188,11 +187,11 @@ Debi was previously Head of the Centre for Cyber Security at Cranfield Universit
   <td><h4><b><a href='https://twitter.com/zornsllama'>Eleanor McMurtry - <i>They/Them</i></a></b></h4>Eleanor is an Aussie living in Switzerland doing their PhD in theoretical cryptography. A lifelong interest in programming and later infosec, Eleanor is a mathematician at heart and does their best to make maths approachable and friendly to the general public. They completed their Master's at the University of Melbourne in 2020, and they are technically a published author (do conference proceedings count?). They enjoy science of all kinds and live with two very fluffy cats.</td></tr>
 
 <tr>
+   <td><h4><b>Survival Guide: Remote Work Edition</b></h4>With the rapid move to online or digital spaces due to the pandemic and lockdowns, a lot of organisations and teams found themselves rapidly adopting remote work. As many organisations rapidly transition to the new remote normal, some did so better than others. As remote fundamentally changes interpersonal dynamics of work, it is important to learn to identify the good from the bad early on, as bad situations can often quickly snowball. Here are anonymised real stories, lessons and strategies learned to identify, and manage the situation, in the hope that from these experiences we create a healthier and better remote-work experience for the infosec community.</td>
  
-  <td><h4><b>Survival Guide: Remote Work Edition</b></h4>With the rapid move to online or digital spaces due to the pandemic and lockdowns, a lot of organisations and teams found themselves rapidly adopting remote work. As many organisations rapidly transition to the new remote normal, some did so better than others. As remote fundamentally changes interpersonal dynamics of work, it is important to learn to identify the good from the bad early on, as bad situations can often quickly snowball. Here are anonymised real stories, lessons and strategies learned to identify, and manage the situation, in the hope that from these experiences we create a healthier and better remote-work experience for the infosec community.</td>
- 
-  <td>
-<a href='https://twitter.com/KatnissMelb'><b>KatnissMelb - <i>She/Her</i></a> & <a href='https://twitter.com/hoodiePony'><b>HoodiePony - <i>They/Them</i></a>hoodiePony is your friendly local Security Architect & Pentester and is quite involved with the local infosec community, while KatnissMelb is your blue teamer with a purple team mindset who volunteers for a bunch of community stuff. Pre-COVID, they first met face-to-face at various community events & found out that they both hang out online in different community chats. Both are passionate advocates of sharing stuff they learned with others and by doing this talk together, they would like to help others to not just survive working in the cyber security industry but to also thrive. </td></tr>
+  <td><h4><a href='https://twitter.com/KatnissMelb'>KatnissMelb - <i>She/Her</i></a> & <a href='https://twitter.com/hoodiePony'>HoodiePony - <i>They/Them</i></a></h4>
+  hoodiePony is your friendly local Security Architect & Pentester and is quite involved with the local infosec community, while KatnissMelb is your blue teamer with a purple team mindset who volunteers for a bunch of community stuff. Pre-COVID, they first met face-to-face at various community events & found out that they both hang out online in different community chats. Both are passionate advocates of sharing stuff they learned with others and by doing this talk together, they would like to help others to not just survive working in the cyber security industry but to also thrive. </td>
+  </tr>
 
 <tr>
  
