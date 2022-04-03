@@ -1,7 +1,7 @@
 ---
 permalink: /2022/speakers
 layout: pages
-title: Speakers
+title: 2022 Speakers
 ---
 <h1>{{page.title}}</h1>
 
@@ -16,14 +16,21 @@ title: Speakers
         padding-bottom: 15px;
     }
     a {
-    color: #008080;
-    background-color: transparent;
-    text-decoration: none;
+        color: #008080;
+        background-color: transparent;
+        text-decoration: none;
+        target-name:new;
+        target-new:tab;
+    }
+    h2 {
+        color: #F78D89;
+        background-color: transparent;
+        text-decoration: none; 
     }
 </style>
 </head>
 
-## Keynotes
+## Keynote
 TBA
 
 ## Talks
