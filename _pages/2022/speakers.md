@@ -22,15 +22,15 @@ title: 2022 Speakers
         target-name:new;
         target-new:tab;
     }
-    h2 {
-        color: #F78D89;
+    #title {
+        color: #008080;
         background-color: transparent;
-        text-decoration: none; 
+        text-decoration: none;    
     }
 </style>
 </head>
 
-## Keynote
+## Keynote {#title}
 TBA
 
 ## Talks
