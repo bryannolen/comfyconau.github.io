@@ -158,7 +158,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>13:45</b></td> 
-    <td>Scanning millions of domains and compromising the email supply chain of Australia's most respected institutions</td>
+    <td>Scanning millions of domains and compromising the email supply chain<br> of Australia's most respected institutions</td>
     <td>Seb Salla</td>
   </tr>
   <tr> 
