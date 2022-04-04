@@ -16,7 +16,7 @@ title: 2022 Speakers
         padding-bottom: 15px;
     }
     a {
-        color: #008080;
+        color: #ED68AD;
         background-color: transparent;
         text-decoration: none;
         target-name:new;
