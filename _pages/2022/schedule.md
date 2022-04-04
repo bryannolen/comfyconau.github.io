@@ -1,5 +1,5 @@
 ---
-permalink: /2022/2022-Schedule
+permalink: /2022/schedule
 layout: pages
 title: 2022 Schedule
 ---
