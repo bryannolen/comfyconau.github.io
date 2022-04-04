@@ -179,7 +179,7 @@ title: 2022 Schedule
   <tr> 
     <td><b>15:25</b></td> 
     <td>Survival Guide: Remote Work Edition</td>
-    <td>KatnissMelb & hoodiePony</td>
+    <td>KatnissMelb & <br>hoodiePony</td>
   </tr>
   <tr> 
     <td><b>16:00</b></td> 
