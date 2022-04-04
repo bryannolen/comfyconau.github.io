@@ -179,7 +179,7 @@ title: 2022 Schedule
   <tr> 
     <td><b>15:25</b></td> 
     <td>Survival Guide: Remote Work Edition</td>
-    <td>KatnissMelb & hoodiePony</td>
+    <td>KatnissMelb & <br>hoodiePony</td>
   </tr>
   <tr> 
     <td><b>16:00</b></td> 
@@ -193,7 +193,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>16:40</b></td> 
-    <td>#!/usr/bin/purl or why learning to knit made me a better Cyber professional</td>
+    <td>#!/usr/bin/purl or why learning to knit made me a better Cyber <br>professional</td>
     <td>Cairo</td>
   </tr>
   <tr> 
