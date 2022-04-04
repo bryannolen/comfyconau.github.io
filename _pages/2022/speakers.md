@@ -83,7 +83,8 @@ She enjoys spending quality time with family and friends, dancing and playing ba
 
 <tr>
  
-  <td><h4><b>TBC</b></h4></td>
+  <td><h4><b>An unconvential career path. From HR to cyber.</b></h4>
+  Bec’s presentation is an opportunity to share her learnings and observations on how her career to-date has led her to a role in cyber security, and how the skills developed are relevant and desirable in the industry.</td>
  
   <td><h4><b><a href='https://twitter.com/bec_millwood'>Bec Millwood - <i>She/Her</i></a></b></h4>I'm new to the Cyber/IT world :) I've spent most of my career in the mining industry, with a HR & Payroll background. I've developed an interest in technology during the course of my career, and keen to learn new things in this very broad space. I've also spent 2 years living overseas. </td></tr>
 
