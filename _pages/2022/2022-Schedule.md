@@ -3,8 +3,6 @@ permalink: /2022/2022-Schedule
 layout: pages
 title: 2022 Schedule
 ---
-<h1>{{page.title}}</h1>
-
 <head>
 <style>
     th, td, tr {
@@ -34,9 +32,9 @@ title: 2022 Schedule
 <table><tbody>
   <th>Time (GMT+10)</th><th>Talk</th><th>Speaker</th>
   <tr> 
-    <td><b>11:55</b></td> 
+    <td><b><br>11:55</b></td> 
     <td><h4>Welcome to ComfyConAU 2022</h4></td>
-    <td>icd</td>
+    <td><br>icd</td>
   </tr>
   <tr> 
     <td><b>12:10</b></td> 
@@ -70,7 +68,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>14:50</b></td> 
-    <td><h4>Afternoon Tea</h4></td>
+    <td><h4><br>Afternoon Tea</h4></td>
     <td></td>
   </tr>
   <tr> 
@@ -100,7 +98,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>17:40</b></td> 
-    <td><h4>Dinner Break</h4></td>
+    <td><h4><br>Dinner Break</h4></td>
     <td></td>
   </tr>
   <tr> 
