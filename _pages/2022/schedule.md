@@ -48,12 +48,12 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>13:20</b></td> 
-    <td>Dancing, not Wrestling: <br>Moving from Compliance to Concordance for Secure Software Development</td>
+    <td>Dancing, not Wrestling: <br>Moving from Compliance to Concordance for Secure Software <br>Development</td>
     <td>Debi</td>
   </tr>
   <tr> 
     <td><b>13:55</b></td> 
-    <td>Communicating Cyber - Simple Tips You Can Implement to Level up your Influence</td>
+    <td>Communicating Cyber - Simple Tips You Can Implement to level up your <br>Influence</td>
     <td>Naina</td>
   </tr>
   <tr> 
@@ -93,7 +93,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>17:05</b></td> 
-    <td>"MY WHY". How Fraud and Identity Theft led me into Cyber Defence and Operations</td>
+    <td>"MY WHY". How Fraud and Identity Theft led me into Cyber Defence and <br>Operations</td>
     <td>Angie</td>
   </tr>
   <tr> 
