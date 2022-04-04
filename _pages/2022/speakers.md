@@ -30,8 +30,45 @@ title: 2022 Speakers
 </style>
 </head>
 
-## Keynote {#title}
-TBA
+## Keynotes {#title}
+<table><tbody>
+<th></th><th></th>
+  <tr> 
+    <td><h4><b>Back to Basics aka 'Why can't we get this shit right?!'</b></h4>Time and time again - especially recently! - we're seeing breaches occurring because (with 20/20 hindsight, of course!) something incredibly simple was missed. So if it was simple, if it was basic, if it was common sense - why was it missed?
+    This talk will highlight some of the basic security steps that keep
+    being missed, told from the perspective of someone who's been down in
+    the trenches and is now helping other organisations rise to the task
+    of getting all the boring, bland, simple, basic things right -
+    *before* looking at all the new and shiny security tools that are out
+    there.
+    Covering a wide range of topics including identity, server management,
+    hybrid cloud and security systems, this talk will take us all Back to
+    Basics.
+    The basics are your foundations - if you don't get them right, nothing
+    will be right.
+    </td>
+    <td><h4><b><a href='https://twitter.com/girlgerms'>Jess Dodson - <i>She/Her</i></a></b></h4>Based in Brisbane, Australia and with close to 20 years of experience
+in the management & architecture of identity & security system
+platforms, a passion for fixing things and a stubbornness to push
+people to get the basics RIGHT, Jess wears the title of SecOps Witch
+proudly!
+
+Chances are if you’ve run into “girlgerms” online, you’ve spoken to Jess.
+
+Having spoken at Ignite Australia in 2015, she was bitten by the
+public-speaking bug and has spoken again at both Ignite New Zealand
+and Ignite Australia for 2016 & 2017, then jumping into the deep end
+by speaking at Ignite 2019 in Florida. Despite that, Jess still speaks
+at more local cons such as CrikeyCon and DDDBrisbane. You may also
+remember Jess from AusCERT 2021 and she'll be speaking again at
+AusCERT 2022!</td>
+  </tr>
+  <tr> 
+    <td>
+    </td>
+    <td><h4><b><a href='https://twitter.com/lady_nerd'>Laura Bell - <i>She/Her</i></a></b></h4>.....</td>
+  </tr>
+</tbody></table>
 
 ## Talks {#title}
 <table><tbody>
