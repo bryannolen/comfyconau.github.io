@@ -32,7 +32,6 @@ title: 2022 Speakers
 
 ## Keynotes {#title}
 <table><tbody>
-<th></th><th></th>
   <tr> 
     <td><h4><b>Back to Basics aka 'Why can't we get this shit right?!'</b></h4>Time and time again - especially recently! - we're seeing breaches occurring because (with 20/20 hindsight, of course!) something incredibly simple was missed. So if it was simple, if it was basic, if it was common sense - why was it missed?
     This talk will highlight some of the basic security steps that keep
@@ -64,9 +63,18 @@ remember Jess from AusCERT 2021 and she'll be speaking again at
 AusCERT 2022!</td>
   </tr>
   <tr> 
-    <td>
+    <td><h4><b>Build Amazing Things (Securely)</b></h4>
+        In cyber security, it's easy to lose sight of why we are doing what we do. The world is increasingly full of amazing technologies, aiming to change everything from the way we travel to improving our health and taking us to space. How does security fit into this world and as cyber security folks, how can we change our role to enable and embrace this fast-paced new world?
+
+Come while we talk about Lego, Robots, Space, Money, Sex and everything in between - it's a brave new security world and they need us.
     </td>
-    <td><h4><b><a href='https://twitter.com/lady_nerd'>Laura Bell - <i>She/Her</i></a></b></h4>.....</td>
+    <td><h4><b><a href='https://twitter.com/lady_nerd'>Laura Bell - <i>She/Her</i></a></b></h4>
+      Founder and CEO, SafeStack Academy
+With over twenty years of experience in software development and information security, Laura Bell specialises in bringing security into organisations of every shape and size.
+She is the founder and CEO of SafeStack Academy, an online education platform offering flexible, high-quality, and people-focused secure development training for fast moving companies, with a focus on building security skills, practices, and culture across the entire engineering team.
+Laura is an experienced conference speaker, trainer, and regular panel member, and has spoken at a range of events such as BlackHat USA, Velocity, and OSCON on the subjects of privacy, covert communications, agile security, and security mindset. 
+She is also the co-author of Agile Application Security and Security for Everyone.     
+      </td>
   </tr>
 </tbody></table>
 
