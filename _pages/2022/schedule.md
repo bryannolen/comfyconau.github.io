@@ -28,7 +28,7 @@ title: 2022 Schedule
 </style>
 </head>
 
-## 2022 Schedule - Saturday 9th April {#title}
+## 2022 Schedule - [Saturday 9th April](https://t.co/HgrihTGZQ9) {#title}
 <table><tbody>
   <th>Time (GMT+10)</th><th>Talk</th><th>Speaker</th>
   <tr> 
@@ -38,7 +38,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>12:10</b></td> 
-    <td>Keynote - TBA</td>
+    <td>Keynote - Build Amazing Things (Securely)</td>
     <td>Laura Bell</td>
   </tr>
   <tr> 
@@ -133,7 +133,8 @@ title: 2022 Schedule
   </tr>
 </tbody></table>
 
-## 2022 Schedule - Sunday 10th April {#title}
+## 2022 Schedule - [Sunday 10th April](https://t.co/99iZOiwUGg) {#title}
+
 <table><tbody>
   <th>Time (GMT+10)</th><th>Talk</th><th>Speaker</th>
   <tr> 
@@ -143,7 +144,7 @@ title: 2022 Schedule
   </tr>
   <tr> 
     <td><b>12:10</b></td> 
-    <td>Keynote - TBA</td>
+    <td>Keynote - Back to Basics aka 'Why can't we get this shit right?!'</td>
     <td>Jess Dodson</td>
   </tr>
   <tr> 
