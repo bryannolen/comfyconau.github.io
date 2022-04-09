@@ -28,7 +28,7 @@ title: 2022 Schedule
 </style>
 </head>
 
-## 2022 Schedule - [Saturday 9th April](https://t.co/HgrihTGZQ9) {#title}
+## 2022 Schedule - [Saturday 9th April](https://www.youtube.com/watch?v=_p5RuK0Jmpk) {#title}
 <table><tbody>
   <th>Time (GMT+10)</th><th>Talk</th><th>Speaker</th>
   <tr> 
@@ -133,7 +133,7 @@ title: 2022 Schedule
   </tr>
 </tbody></table>
 
-## 2022 Schedule - [Sunday 10th April](https://t.co/99iZOiwUGg) {#title}
+## 2022 Schedule - [Sunday 10th April](https://www.youtube.com/watch?v=uj3O_rm6HuQ) {#title}
 
 <table><tbody>
   <th>Time (GMT+10)</th><th>Talk</th><th>Speaker</th>
